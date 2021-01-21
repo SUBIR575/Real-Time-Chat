@@ -1,0 +1,18 @@
+{
+  "name": "realtime-chat",
+  "version": "1.0.0",
+  "description": "real time chat",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server"
+  },
+  "author": "subir pal",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
